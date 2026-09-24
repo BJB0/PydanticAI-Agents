@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+
+# Python version management
+.python-version
+
+# Project configuration / build system
+pyproject.toml
+
+.logfire
